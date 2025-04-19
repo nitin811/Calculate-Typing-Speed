@@ -21,6 +21,4 @@ Technologies Used:
 
     Python 3
 
-    Tkinter (for GUI)
-
     Standard Python libraries (time, random)
